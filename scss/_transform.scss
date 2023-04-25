@@ -1,0 +1,7 @@
+.translate{
+    transition: all 1s;
+    &:hover{
+        transform: translateY(-10px);
+        cursor: pointer;
+    }
+}
