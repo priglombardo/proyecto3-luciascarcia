@@ -180,7 +180,7 @@
 }
 
 .navbar-nav-scroll {
-  max-height: var(--#{$prefix}scroll-height, 75vh);
+  max-height: var(--#{$prefix}scroll-height, 100vh);
   overflow-y: auto;
 }
 
